@@ -2,7 +2,7 @@
 <p align="center">
 Welcome to my little digital cave of chaos.
 </n>
-I’m not a Computer Science major. I didn’t grow up coding calculators or building robots out of cereal boxes. But one day I decided I wanted to understand the tech that runs the world — so here I am, learning CS from scratch and documenting every glitch, “aha!” moment, and stack overflow spiral along the way.
+I didn’t grow up coding calculators or building robots out of cereal boxes. But one day I decided I wanted to understand the tech that runs the world — so here I am, learning CS from scratch and documenting every glitch, “aha!” moment, and stack overflow spiral along the way.
 </p>
 ## 📖 What I'm doing
 
